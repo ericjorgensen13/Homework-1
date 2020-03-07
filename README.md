@@ -42,3 +42,5 @@ You are required to submit the following for review:
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+EJ- All the above changes and preferences were hopefully made. 
